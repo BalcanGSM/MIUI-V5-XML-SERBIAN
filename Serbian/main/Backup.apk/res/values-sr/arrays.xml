@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi data</item>
-        <item>All programs</item>
+        <item>WLAN podaci</item>
+        <item>Svi programi</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Browser</item>
-	<item>Gallery</item>
-	<item>Permission Manager</item>
-	<item>Camera</item>
-	<item>Network Assistant</item>
-	<item>Weather Storage</item>
-	<item>Weather</item>
+	<item>Pregledač</item>
+	<item>Galerija</item>
+	<item>Menadžer dozvola</item>
+	<item>Kamera</item>
+	<item>Mrežni asistent</item>
+	<item>Vremenski podaci</item>
+	<item>Vreme</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia Messages</item>
-        <item>System settings</item>
-        <item>Wi-Fi settings</item>
-        <item>Desktop layout</item>
-        <item>Alarm settings</item>
-        <item>Notes</item>
+        <item>Kontakti</item>
+        <item>Dnevnik poziva</item>
+        <item>Poruke</item>
+        <item>Multimedijalne poruke</item>
+        <item>Sistemska podešavanja</item>
+        <item>WLAN podešavanja</item>
+        <item>Izgled desktopa</item>
+        <item>Podešavanja alarma</item>
+        <item>Beleške</item>
         <item>DND</item>
-        <item>Account</item>
+        <item>Nalog</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Data</item>
-        <item>Apps</item>
-        <item>Apps and Data</item>
+        <item>Podaci</item>
+        <item>Programi</item>
+        <item>Programi i podaci</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Kontakti</item>
+        <item>Dnevnik poziva</item>
+        <item>Poruke</item>
+        <item>Postavke WLAN-a</item>
+        <item>Beleške</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Kontakti</item>
+        <item>WLAN podešavanja</item>
+        <item>Beleške</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call logs</item>
-        <item>Messages</item>
+        <item>Dnevnik poziva</item>
+        <item>Poruke</item>
     </string-array>
 </resources>
