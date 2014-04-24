@@ -61,8 +61,8 @@
   <string name="st_block_setting_group">Podešavanja liste zabranjenih</string>
   <string name="st_block_setting_title">Pozivi i poruke</string>
   <string name="st_block_title">Blok i zapis</string>
-  <string name="st_block_unknown_call">Blokiaj sve nepoznate pozive</string>
-  <string name="st_block_unknown_sms">Blokiaj sve nepoznate poruke</string>
+  <string name="st_block_unknown_call">Blokiraj sve nepoznate pozive</string>
+  <string name="st_block_unknown_sms">Blokiraj sve nepoznate poruke</string>
   <string name="st_call_group">Poziv</string>
   <string name="st_common_setting_group">Podešavanja filtriranja</string>
   <string name="st_filter_keywords_setting_summary1">Poruke od nepoznatih kontakata biće blokirane.</string>
